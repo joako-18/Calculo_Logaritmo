@@ -2,10 +2,10 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "CalculoLogaritmo.exe"
+			"path" : "CalculoDiferencial.exe"
 		},
 		{
-			"path" : "CalculoLogaritmo.pdb"
+			"path" : "CalculoDiferencial.pdb"
 		}
 	],
 	"backtrace" : 1,
@@ -56,7 +56,7 @@
 			]
 		}
 	],
-	"id" : "CalculoLogaritmo::@6890427a1f51a3e7e1df",
+	"id" : "CalculoDiferencial::@6890427a1f51a3e7e1df",
 	"link" : 
 	{
 		"commandFragments" : 
@@ -76,8 +76,8 @@
 		],
 		"language" : "CXX"
 	},
-	"name" : "CalculoLogaritmo",
-	"nameOnDisk" : "CalculoLogaritmo.exe",
+	"name" : "CalculoDiferencial",
+	"nameOnDisk" : "CalculoDiferencial.exe",
 	"paths" : 
 	{
 		"build" : ".",
