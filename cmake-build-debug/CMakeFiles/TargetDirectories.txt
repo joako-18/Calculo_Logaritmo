@@ -1,0 +1,3 @@
+C:/Users/EsauP/CLionProjects/CalculoLogaritmo/cmake-build-debug/CMakeFiles/CalculoLogaritmo.dir
+C:/Users/EsauP/CLionProjects/CalculoLogaritmo/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/EsauP/CLionProjects/CalculoLogaritmo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
