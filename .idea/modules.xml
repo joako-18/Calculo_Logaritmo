@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/CalculoLogaritmo.iml" filepath="$PROJECT_DIR$/.idea/CalculoLogaritmo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/CalculoDiferencial.iml" filepath="$PROJECT_DIR$/.idea/CalculoDiferencial.iml" />
     </modules>
   </component>
 </project>

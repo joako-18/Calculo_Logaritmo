@@ -9,7 +9,7 @@
 					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
 					"minimumCMakeVersion" : 
 					{
-						"string" : "3.27"
+						"string" : "3.26"
 					},
 					"projectIndex" : 0,
 					"source" : ".",
@@ -27,7 +27,7 @@
 					[
 						0
 					],
-					"name" : "CalculoLogaritmo",
+					"name" : "CalculoDiferencial",
 					"targetIndexes" : 
 					[
 						0
@@ -38,9 +38,9 @@
 			[
 				{
 					"directoryIndex" : 0,
-					"id" : "CalculoLogaritmo::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-CalculoLogaritmo-Debug-f4a1b4ffe680e8a54451.json",
-					"name" : "CalculoLogaritmo",
+					"id" : "CalculoDiferencial::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CalculoDiferencial-Debug-9bf81155a6085429297b.json",
+					"name" : "CalculoDiferencial",
 					"projectIndex" : 0
 				}
 			]
@@ -49,12 +49,12 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "C:/Users/EsauP/CLionProjects/CalculoLogaritmo/cmake-build-debug",
-		"source" : "C:/Users/EsauP/CLionProjects/CalculoLogaritmo"
+		"build" : "C:/Users/eduar/Desktop/CalculoDiferencial/cmake-build-debug",
+		"source" : "C:/Users/eduar/Desktop/CalculoDiferencial"
 	},
 	"version" : 
 	{
 		"major" : 2,
-		"minor" : 6
+		"minor" : 5
 	}
 }
